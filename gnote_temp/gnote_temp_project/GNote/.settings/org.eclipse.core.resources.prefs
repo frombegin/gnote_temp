@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//gnote/core/Server.py=utf-8
+encoding//gnote/core/dfs/__init__.py=utf-8
+encoding//gnote/core/dfs/backends/base.py=utf-8
+encoding//gnote/core/exceptions.py=utf-8
+encoding//gnote/core/kvstorage.py=utf-8
+encoding//gnote/core/notes.py=utf-8
+encoding//gnote/core/objects.py=utf-8
+encoding//gnote/core/queries.py=utf-8
+encoding//gnote/util/ConsistentHashing.py=utf-8
+encoding//gnote/util/Utility.py=utf-8
+encoding/helloworld_client.py=utf-8
+encoding/helloworld_server.py=utf-8
+encoding/main.py=utf-8
+encoding/user.py=utf-8
